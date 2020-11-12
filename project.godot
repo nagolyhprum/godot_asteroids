@@ -19,6 +19,12 @@ config/name="Asteroids"
 run/main_scene="res://Main.tscn"
 config/icon="res://icon.png"
 
+[display]
+
+window/size/width=640
+window/size/height=480
+window/size/resizable=false
+
 [input]
 
 forward={
