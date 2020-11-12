@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Stranded-in-the-Asteroid-Belt_Looping.ogg-d0ff4601695ebf148fa2fde05f6ca570.oggstr"
+
+[deps]
+
+source_file="res://Stranded-in-the-Asteroid-Belt_Looping.ogg"
+dest_files=[ "res://.import/Stranded-in-the-Asteroid-Belt_Looping.ogg-d0ff4601695ebf148fa2fde05f6ca570.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
